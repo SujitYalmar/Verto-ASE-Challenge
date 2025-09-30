@@ -81,4 +81,28 @@ npm install
 
   ### 📋 API Endpoints
   Base Path: /api/employees\
- <img width="893" height="321" alt="image" src="https://github.com/user-attachments/assets/1efef819-ce4f-4f55-95ec-8ddeb041f9ef" />
+ <img width="893" height="321" alt="image" src="https://github.com/user-attachments/assets/1efef819-ce4f-4f55-95ec-8ddeb041f9ef" />\
+
+Example Request Body (POST/PUT):
+```bash
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "position": "Lead Developer"
+}
+```
+### 📁 Project Structure
+<img width="671" height="563" alt="image" src="https://github.com/user-attachments/assets/a9817739-9ed5-41b9-9592-d582e7acbe59" />
+
+## 📜 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+# Employee Management CRUD Application 🚀
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Backend-blue?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
+![Jest](https://img.shields.io/badge/Tests-Jest-orange?logo=jest&logoColor=white)
