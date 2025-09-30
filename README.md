@@ -23,3 +23,29 @@ This is a full-stack web application that provides a complete **Create, Read, Up
 - **Express.js** – Web framework for Node.js  
 - **SQLite3** – Self-contained SQL database engine  
 - **CORS** – Middleware for cross-origin resource sharing  
+
+### Frontend
+- **React.js** – JavaScript library for building UI  
+- **Axios** – HTTP client for API requests  
+- **CSS** – Custom styling for a modern look  
+
+### Testing
+- **Jest** – JavaScript testing framework  
+- **Supertest** – HTTP server testing library  
+
+---
+
+## ✅ Prerequisites
+Ensure the following are installed:
+
+- **Node.js** (v18.x or later) → [Download here](https://nodejs.org/)  
+- **npm** (comes with Node.js installation)  
+
+---
+
+## ⚙️ Installation & Setup
+
+### Clone the Repository
+```bash
+git clone https://github.com/SujitYalmar/Verto-ASE-Challenge.git
+cd employee-crud-app
