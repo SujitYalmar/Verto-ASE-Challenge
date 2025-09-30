@@ -49,3 +49,36 @@ Ensure the following are installed:
 ```bash
 git clone https://github.com/SujitYalmar/Verto-ASE-Challenge.git
 cd employee-crud-app
+```
+### Setup the Backend
+```bash
+cd backend
+npm install
+```
+### Setup the Frontend
+```bash
+cd ../frontend
+npm install
+```
+### 🚀 Running the Application
+You’ll need two terminals: one for the backend and one for the frontend.
+
+### Start the Backend
+```bash
+cd backend
+npm start
+```
+- Runs on http://localhost:5001
+- SQLite database file (employees.db) will be created at:
+ backend/src/config/
+
+### Start the Frontend
+```bash
+cd ../frontend
+npm install
+```
+- Runs on http://localhost:3000
+
+  ### 📋 API Endpoints
+  Base Path: /api/employees\
+ <img width="893" height="321" alt="image" src="https://github.com/user-attachments/assets/1efef819-ce4f-4f55-95ec-8ddeb041f9ef" />
